@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Rhemando em construçãogit</h1>
+    return <h1>Rhemando em construção</h1>
 }
 
 export default Home;
